@@ -1,0 +1,13 @@
+OrderID,CustomerID,ProductID,Quantity,OrderDate,Product,Category,Price,CustomerName,City,TotalAmount,Month,Year
+1,1,101,1,2024-01-05,Laptop,Electronics,1200,Ahmed,Cairo,1200,1,2024
+2,2,102,2,2024-01-12,Phone,Electronics,800,Sara,Alexandria,1600,1,2024
+3,3,103,1,2024-02-02,Tablet,Electronics,600,Omar,Cairo,600,2,2024
+4,1,102,3,2024-02-15,Phone,Electronics,800,Ahmed,Cairo,2400,2,2024
+5,4,104,2,2024-03-01,Headphones,Accessories,150,Lina,Giza,300,3,2024
+6,5,105,1,2024-03-10,Smartwatch,Accessories,250,Youssef,Alexandria,250,3,2024
+7,6,101,1,2024-03-22,Laptop,Electronics,1200,Maya,Cairo,1200,3,2024
+8,7,103,2,2024-04-05,Tablet,Electronics,600,Karim,Giza,1200,4,2024
+9,8,102,2,2024-04-12,Phone,Electronics,800,Nour,Cairo,1600,4,2024
+10,2,101,1,2024-04-25,Laptop,Electronics,1200,Sara,Alexandria,1200,4,2024
+11,3,105,3,2024-05-03,Smartwatch,Accessories,250,Omar,Cairo,750,5,2024
+12,5,104,1,2024-05-18,Headphones,Accessories,150,Youssef,Alexandria,150,5,2024
